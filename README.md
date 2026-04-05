@@ -70,6 +70,10 @@ A versatile mobile robot built using Arduino Uno capable of performing multiple 
 | TX | RX (0) |
 | RX | TX (1) |
 
+## 📷 Circuit Diagram
+<img width="1536" height="1024" alt="ChatGPT Image Apr 5, 2026, 11_40_05 PM" src="https://github.com/user-attachments/assets/595915d6-36e7-435d-ae0c-106a4ed910c1" />
+
+
 ---
 
 # ⚙️ Modes & Working
