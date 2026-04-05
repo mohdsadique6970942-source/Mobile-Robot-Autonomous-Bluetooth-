@@ -128,7 +128,30 @@ Each functionality is implemented in separate Arduino files:
 
 ---
 
-## 🔄 Flow Logic
+# 🔄 Flow Logic
 Start → Select Mode → Read Sensors/Bluetooth → Process → Move Motors → Loop
 
-# 🔄 Flow Logic
+
+---
+
+# 🎯 Applications
+- Autonomous navigation robots  
+- Smart vehicles  
+- Robotics competitions  
+- Educational projects  
+
+---
+
+# 📚 Learning Outcomes
+- Sensor fusion  
+- Embedded systems  
+- Motor control  
+- Autonomous decision making  
+- Wireless communication  
+
+---
+
+# 📄 License
+Open-source and free for educational use.
+
+
