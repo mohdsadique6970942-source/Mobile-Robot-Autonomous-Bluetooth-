@@ -122,17 +122,6 @@ Note - Download the app - BLE Controller or BT Car Controller and connect the ro
 
 ---
 
-# 💻 Code Structure
-Each functionality is implemented in separate Arduino files:
-- `line_following.ino`
-- `object_following.ino`
-- `obstacle_avoidance.ino`
-- `maze_solver.ino`
-- `cliff_avoidance.ino`
-- `bluetooth_control.ino`
-
----
-
 # 🔄 Flow Logic
 Start → Select Mode → Read Sensors/Bluetooth → Process → Move Motors → Loop
 
