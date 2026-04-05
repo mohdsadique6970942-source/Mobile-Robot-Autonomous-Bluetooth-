@@ -110,6 +110,7 @@ A versatile mobile robot built using Arduino Uno capable of performing multiple 
 
 ## 📱 6. Bluetooth Control
 Control robot using mobile commands:
+Note - Download the app - BLE Controller or BT Car Controller and connect the robot to smartphone for command
 
 | Command | Action |
 |--------|--------|
