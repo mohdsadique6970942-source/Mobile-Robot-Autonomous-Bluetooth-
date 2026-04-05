@@ -3,7 +3,7 @@
 A versatile mobile robot built using Arduino Uno capable of performing multiple intelligent behaviors including line following, object following, obstacle avoidance, maze solving, cliff detection, and Bluetooth-controlled operation.
 
 ---
-
+ 
 ## 🚀 Features
 - Line Following  
 - Object Following  
@@ -127,5 +127,8 @@ Each functionality is implemented in separate Arduino files:
 - `bluetooth_control.ino`
 
 ---
+
+## 🔄 Flow Logic
+Start → Select Mode → Read Sensors/Bluetooth → Process → Move Motors → Loop
 
 # 🔄 Flow Logic
