@@ -1,17 +1,6 @@
 # 🤖 Multi-Mode Smart Mobile Robot (Autonomous + Bluetooth)
 
-A versatile mobile robot built using Arduino Uno capable of performing multiple intelligent behaviors including line following, object following, obstacle avoidance, maze solving, cliff detection, and Bluetooth-controlled operation.
-
----
- 
-## 🚀 Features
-- Line Following  
-- Object Following  
-- Obstacle Avoidance  
-- Maze Solving  
-- Cliff / Edge Detection  
-- Bluetooth Manual Control (HC-05)  
-- Multi-mode switching  
+A versatile mobile robot built using Arduino Uno capable of performing multiple intelligent behaviors including line following, object following, obstacle avoidance, maze solving, cliff detection, and Bluetooth-controlled operation.  
 
 ---
 
